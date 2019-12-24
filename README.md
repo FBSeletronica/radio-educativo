@@ -10,7 +10,7 @@ Baseado no Arduino Nano e DFplayer mini. Confira o Esquemático
 
 Montado em uma caixa de papelão e acabamento com adesivo plastico
 
-![Radio Livia Montagem Final](FotoMontagemfinal.jpg)
+![Radio Livia Montagem Final](FotoMontagemfinal-ajustada.jpg)
 
 ## Software
 
