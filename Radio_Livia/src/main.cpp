@@ -1,6 +1,6 @@
 /*
     Radio Educativo 
-    Feito como presente de aniversário para Livia
+    Feito como presente de Natal para Livia
     Projeto por Fábio Souza
     Dezembro de 2019
 
